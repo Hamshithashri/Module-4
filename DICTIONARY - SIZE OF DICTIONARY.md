@@ -31,6 +31,7 @@ To write a Python program to print the size of a dictionary using `getsizeof()` 
 ```
 
 ### OUTPUT
-
+<img width="1183" height="238" alt="image" src="https://github.com/user-attachments/assets/3f9afc33-8041-4843-874b-305cb29a3143" />
 
 ### RESULT
+Therefore, the output is the example to write a Python program to print the size of a dictionary using `getsizeof()` from the `sys` module.
