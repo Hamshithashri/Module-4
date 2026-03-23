@@ -41,5 +41,10 @@ To write a Python program to perform addition and division operations using a cl
 ```
 
 ### OUTPUT
+<img width="1185" height="381" alt="image" src="https://github.com/user-attachments/assets/aaf81214-65c1-449d-a16d-b397d557b7ad" />
 
 ### RESULT
+Therefore, the output is the example to write a python program to perform addition and multiplication operation using class and if..elif statement
+note:
+class name should be calc, function name should be setvalues( to set a and b values) ,add and mul
+cases : choice 1 ->perform addition ,choice 2-> perform multiplication ,  choice 0 -> exiting, other choices -> print 'invalid choice'
