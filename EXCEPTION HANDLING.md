@@ -28,7 +28,8 @@ Name
 Add Your Code Here
 
 ```
-
 ### OUTPUT
+<img width="1187" height="341" alt="image" src="https://github.com/user-attachments/assets/02bf2601-e00f-46d0-b1d6-0c2812ec3a99" />
 
 ### RESULT
+Therefore, the output is the example to create a Python program that prompts the user for a list of grades separated by commas, splits the string into individual grades, and uses exception handling to inform the user if the values they entered cannot be converted to integers.
