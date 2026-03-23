@@ -32,9 +32,8 @@ To write a Python program that reads a file and counts the frequency of each cha
 ```
 
 ```
-
-
 ### OUTPUT
-
+<img width="1183" height="394" alt="image" src="https://github.com/user-attachments/assets/10e968a7-e766-48ad-97ac-e2d3d698a3da" />
 
 ### RESULT
+Therefore, the output is an example to write a Python program that reads a file and counts the frequency of each character in it.
